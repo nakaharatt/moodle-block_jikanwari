@@ -1,8 +1,5 @@
 # jikanwari
 
-日本語
-===
-
 ## 概要
 - jikanwariブロックは Moodle のブロックプラグインです。日本でよく見られる形の時間割をダッシュボードに表示・管理することができます。
 
@@ -21,10 +18,6 @@
 3. Moodle サイト管理にログインし、`サイト管理 > 通知` (Site administration > Notifications) にアクセスします。
    - プラグインのインストール・データベース更新処理が自動的に実行されます。
 
-
-
-English
-===
 
 ## Overview
 The **jikanwari** block is a Moodle block plugin designed to display and manage a Japanese-style school timetable on the user's dashboard.
