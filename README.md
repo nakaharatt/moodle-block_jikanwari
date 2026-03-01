@@ -3,7 +3,7 @@
 ## 概要
 - jikanwariブロックは Moodle のブロックプラグインです。日本でよく見られる形の時間割をダッシュボードに表示・管理することができます。
 - Moodle 4.5とMoodle 5.1で動作確認済み（20260106）
-- 
+  
 <img width="929" height="800" alt="jikanwari" src="https://github.com/user-attachments/assets/0c4dbc46-f503-463d-9963-55678e4e6332" />
 
 主な機能
